@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.vscode/
+
+# Claude Code
+.claude/
+
+# ОС
+.DS_Store
+Thumbs.db
